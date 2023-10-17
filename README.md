@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Aldevron
+Site conversion to Edge Delivery Services / Document Based Authoring
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--aldevron--hlxsites.hlx.page/
+- Live: https://main--aldevron--hlxsites.hlx.live/
 
 ## Installation
 
